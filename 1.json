@@ -1,0 +1,25 @@
+Biodata{
+   "Nama": "Muhamad Taufiq H",
+   "Address": "Temanggung Jawa Tengah",
+   "Hobbies": [
+        "Learn",
+        "Learn",
+        "Learn"
+   ],
+   "Married" : false,
+   "School":  [
+   {
+      "High School" : "SMKN 2 Temanggung",
+      "University"  : "none"
+   }
+        
+   ],
+
+   "Skills" : {
+    "Html" : 90,
+    "CSS"  : 70,
+    "JS "  : 40,
+    "PHP"  : 30
+
+   }
+}
